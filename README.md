@@ -13,6 +13,6 @@ optional arguments:
   --output OUTPUT, -o OUTPUT
                         Dump data out to File.
                         
-=======================================================================================
+====================================================================================
 
 Script will automaticlly compare the images and the hash list
